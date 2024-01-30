@@ -1,5 +1,4 @@
 const solution = require('../candidate-testing');
-
 describe("Candidate Testing solution", function() {
 
 	// PART 1 // 
